@@ -1,0 +1,6 @@
+{
+  "name": "Sprint Stuff",
+  "tagline": "Hand Painted Model Sprint Cars",
+  "body": "<div id=\"header\">\r\n<span style=\"color:blue\">\r\n     <h1> Sprint Stuff </h1>\r\n</span>\r\n<p> <h3> Hand Painted Sprint Car Novelties </h3> </p> \r\n<p> <h5> Owned & Operated by; Bob Olson (510-415-1157) </h5>\r\n</div>\r\n\r\n<body>\r\n<b> We Sell the following products: </b>\r\n<ul>\r\n  <li> Hand painted\r\n        <ul>\r\n        <li> die cast models\r\n        <li> earings\r\n       <li>  hat pins\r\n       <li>  pull backs\r\n        </ul>\r\n   <li> bumper stickers\r\n   <li> key chain holders\r\n   <li> T-shirts, Hoodies, and more!\r\n</ul>\r\n\r\n</body>\r\n\r\n<div id=\"footer\">\r\n<Span Style= \"color:blue\"> \r\n   <h/6> Check us out on Facebook: </h6> \r\n</Span>\r\n<a href=\"https://www.facebook.com/SprintStuff/\">\r\nSprint Stuff\r\n</a>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
