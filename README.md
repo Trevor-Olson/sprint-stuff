@@ -1,7 +1,6 @@
-<div id="header">
-<span style="color:blue">
+
      <h1> Sprint Stuff </h1>
-</span>
+
 <p> <h3> Hand Painted Sprint Car Novelties </h3> </p> 
 <p> <h5> Owned & Operated by; Bob Olson (510-415-1157) </h5>
 </div>
